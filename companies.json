@@ -1,0 +1,32 @@
+[
+    {
+        "name": "zylen",
+        "industry": "IT",
+        "Domain": "Software Development",
+        "Employees": 50
+    },
+    {
+        "name": "topgeo",
+        "industry": "AI",
+        "Domain": "AI Optimization",
+        "Employees": 500
+    },
+    {
+        "name": "Amazon",
+        "industry": "cloud",
+        "Domain": "Software Development",
+        "Employees": 10000
+    },
+    {
+        "name": "Google",
+        "industry": "IT",
+        "Domain": "Web Development",
+        "Employees": 12000
+    },
+    {
+        "name": "Microsoft",
+        "industry": "IT",
+        "Domain": "Software Development",
+        "Employees": 9000
+    }
+]
